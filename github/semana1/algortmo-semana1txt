@@ -1,0 +1,33 @@
+Los 3 están conectados por la misma base: *confianza, transparencia y colaboración*.
+
+Aunque parecen temas distintos, el hilo que los une es _cómo manejamos información para trabajar juntos sin rompernos la cabeza_.
+
+*La relación en 3 puntos:*
+
+*1. Uso responsable de la información = Materia prima de calidad*
+- *En internet*: Verificar fuentes, no compartir fake news, respetar derechos de autor. 
+- *En ciudadanía*: Para opinar y votar bien necesitas datos reales, no rumores de WhatsApp. Si la info es basura, las decisiones también.
+- *En Git*: Cada _commit_ es información. Si pones mensajes tipo "arreglé cosas" o subes código sin documentar, contaminas el proyecto. Es el equivalente a compartir noticias falsas, pero en código.
+
+Sin info responsable, todo lo demás se cae.
+
+*2. Participación ciudadana = Colaboración abierta*
+- *En internet*: Foros, comentarios, wikis, debates. La red funciona porque muchos aportan.
+- *En ciudadanía*: Es participar en juntas de acción comunal, veedurías, peticiones, marchas. Tu voz cuenta solo si está informada y se escucha.
+- *En Git*: Es literalmente participación ciudadana digital. _Pull requests_, _issues_, _forks_. Gente que no se conoce colabora en un proyecto abierto. Linux y miles de apps existen por eso.
+
+Git es democracia aplicada al código: cualquiera puede proponer cambios, hay reglas, hay discusión, y queda registro de quién hizo qué.
+
+*3. Organización del trabajo técnico = Reglas para no hacer caos*
+- *En internet*: Netiqueta, normas de comunidades, moderación. Sin reglas, los comentarios se vuelven guerra.
+- *En ciudadanía*: Leyes, constitución, mecanismos de participación. Son el "Git" de la sociedad para que no todo sea gritos.
+- *En Git*: _Branches_, _merge_, _code review_, _commit messages_. Son las reglas que permiten que 100 programadores trabajen en el mismo archivo sin destruirse.
+
+*El resumen en una línea:*
+*Git le enseñó al mundo técnico lo que la ciudadanía necesita: para colaborar a gran escala necesitas información confiable, participación con respeto y reglas claras que todos vean.*
+
+Usar mal internet es como hacer _push --force_ a la rama main: rompes el trabajo de todos. 
+Participar sin informarte es como hacer _commit_ sin probar el código: metes bugs al sistema.
+Trabajar sin Git es como gobernar sin actas: nadie sabe quién decidió qué ni por qué.
+
+¿Te toca hacer un ensayo o proyecto conectando estos temas? Te puedo ayudar a armar la estructura.
