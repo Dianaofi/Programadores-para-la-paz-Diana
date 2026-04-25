@@ -57,3 +57,26 @@ git config --global user.name "murillomurillodiana15-hub"
 git add .
 git commit -m "semana1"
 git push
+pkg install git
+clear
+git config --global user.emall "murillomurillodiana15-hub"
+mkdir github
+cd github
+mkdir -p semana1
+nano preguntas-semana1-txt
+nano reflexion-semana1-txt
+nano algoritmo-semana1-txt
+cd github
+cd --
+ls
+git init
+git add.
+ls
+git commit -m "semana1"
+[200~git config --global user.email " murillomurillodiana15@gmail.com"~
+git config --global user.name " murillomurillodiana15-hub"
+git commit -m “Actividad semana1”
+git config --global user.email "murillomurillodiana15@gmail.com"
+git add .
+git commit -m "semana1"
+git push
