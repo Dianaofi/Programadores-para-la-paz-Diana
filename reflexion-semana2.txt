@@ -1,0 +1,10 @@
+La terminal es importante para un desarrollador porque da control total 
+sobre los archivos del proyecto sin depender de clicks. 
+Con comandos como cd, ls y mkdir puedo moverme rápido entre carpetas 
+y crear la estructura que necesito para mi código. 
+En desarrollo web siempre trabajamos con muchos archivos y carpetas.
+Usar la terminal me permite automatizar tareas repetitivas 
+y ejecutar herramientas como Git, npm o servidores locales.
+Además, en servidores reales no hay interfaz gráfica, solo terminal.
+Por eso dominar estos comandos básicos me hace más eficiente 
+y me prepara para trabajar en proyectos profesionales.
