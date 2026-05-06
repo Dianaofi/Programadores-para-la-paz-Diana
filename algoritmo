@@ -1,0 +1,20 @@
+Va otro ejemplo, este de algo que usas diario:
+
+*Algoritmo: Desbloquear el celular con PIN*
+Inicio
+1. Tomar el celular y presionar el botón de encendido
+2. Deslizar la pantalla para que aparezca el teclado numérico
+3. Ingresar el PIN dígito por dígito
+4. Presionar “Aceptar” o “OK”
+5. Si el PIN es correcto → Mostrar pantalla de inicio
+6. Si el PIN es incorrecto → Mostrar “PIN incorrecto” y volver al paso 2
+7. Si falla 3 veces seguidas → Bloquear temporalmente por 30 segundos
+Fin
+*Partes del algoritmo:*
+- *Entrada*: Tu PIN
+- *Proceso*: Pasos 1 al 7 con condiciones
+- *Salida*: Celular desbloqueado o bloqueado
+
+Todos los algoritmos son eso: instrucciones ordenadas para resolver algo. 
+
+¿Lo necesitas para alguna tarea específica? Puedo hacerlo sobre redes, videojuegos, cocina, lo que quieras.
