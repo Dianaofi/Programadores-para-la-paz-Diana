@@ -1,0 +1,8 @@
+Usar la terminal es clave porque me da control total sobre mi proyecto sin depender 
+de interfaces gráficas. Con comandos como cd, mkdir y touch puedo crear y organizar 
+carpetas rápido, lo que ahorra tiempo en proyectos grandes. Además, herramientas 
+como Git se usan desde la terminal, y saber navegar me ayuda a no perderme en el 
+repositorio. También me hace más profesional, porque en el mundo laboral los 
+servidores muchas veces no tienen interfaz gráfica. Aprender la terminal es como 
+aprender a manejar el "detrás de cámaras" de la programación y me da autonomía.
+
