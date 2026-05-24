@@ -1,7 +1,0 @@
-Las APIs permiten que diferentes aplicaciones y sistemas compartan información de forma rápida y ordenada. 
-En una comunidad, esto ayuda a que los reportes, alertas y noticias lleguen a todos sin perderse. 
-Por ejemplo, una app móvil puede enviar un reporte a un servidor central y ese mismo dato puede aparecer 
-en una página web o enviarse a los líderes comunitarios. Esto evita duplicar trabajo y mantiene todo organizado. 
-Además, las APIs usan formatos estándar como JSON, que son fáciles de leer y procesar. Así, cualquier persona 
-con conocimientos básicos puede crear herramientas que se conecten entre sí. De esta manera, la tecnología 
-abierta fortalece la comunicación, la transparencia y la participación dentro de la comunidad.
