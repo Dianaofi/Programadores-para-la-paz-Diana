@@ -1,0 +1,10 @@
+En esta semana 6 aprendí a crear un servidor con Node.js y Express.
+Entendí que express.json() sirve para leer datos que vienen en formato JSON.
+Comprendí el uso de req.body para obtener la información que envía el usuario.
+Creé las rutas /registro e /incidencia para recibir datos.
+Fue difícil al inicio porque confundí los nombres de los archivos.
+Aprendí que en programación todo debe escribirse exactamente igual.
+Si pones un espacio o cambias una letra, el archivo no se encuentra.
+También aprendí a usar GitHub para subir mi código.
+Ahora sé que las carpetas organizan mejor los archivos del proyecto.
+Esta semana me enseñó que la práctica y la paciencia son clave.
