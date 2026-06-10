@@ -1,0 +1,5 @@
+Cuando envío datos a /registro o /incidencia con Postman, el servidor responde.
+La respuesta es un JSON que dice que los datos se recibieron correctamente.
+Express usa express.json() para convertir el texto JSON en un objeto de JavaScript.
+Luego req.body me permite acceder a los datos como req.body.nombre o req.body.id.
+El servidor responde con código 200 que significa "todo salió bien".
