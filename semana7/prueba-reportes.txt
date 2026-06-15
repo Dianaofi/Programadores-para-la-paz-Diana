@@ -1,0 +1,1 @@
+Cuando hago GET /reportes, el servidor devuelve un array JSON con todos los reportes registrados con POST. Si no hay reportes, devuelve un array vacío [].

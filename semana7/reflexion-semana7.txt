@@ -1,0 +1,10 @@
+Es importante que las comunidades registren y consulten reportes en una plataforma tecnológica porque permite organizar la información de forma clara y rápida.
+
+1. Las personas reportan incidencias sin ir a una oficina.
+2. Las autoridades atienden más rápido los problemas reales.
+3. Se crea un historial para tomar mejores decisiones.
+4. Todo queda documentado y transparente.
+5. Ahorra tiempo y recursos porque es digital.
+6. Los ciudadanos se sienten escuchados y participan más.
+7. Con un array en memoria el servidor guarda los datos mientras está encendido.
+8. Esto enseña cómo funcionan las apps reales que usamos todos los días.
