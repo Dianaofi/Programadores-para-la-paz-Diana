@@ -1,0 +1,12 @@
+Comandos usados para obtener información del sistema:
+
+1. uname -a
+   Muestra: Nombre del kernel, versión del sistema operativo, fecha y arquitectura del equipo.
+   Ejemplo: Linux localhost 4.19... aarch64 Android
+
+2. whoami
+   Muestra: El nombre del usuario actual que está ejecutando comandos en el sistema.
+
+Utilidad de los comandos:
+Estos comandos son útiles para identificar qué sistema operativo estamos usando y con qué usuario trabajamos. 
+En un servidor es importante saberlo antes de hacer cambios, para no afectar otros usuarios o carpetas.

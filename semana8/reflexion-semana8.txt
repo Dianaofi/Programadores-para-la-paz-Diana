@@ -1,0 +1,15 @@
+La seguridad digital es fundamental para proteger las plataformas tecnológicas que usan las comunidades.
+
+Si una plataforma no tiene seguridad, los datos personales de los usuarios pueden ser robados o filtrados.
+
+Esto genera desconfianza y hace que las personas dejen de participar en los procesos comunitarios.
+
+Aplicar buenas prácticas como usar contraseñas fuertes y autenticación de dos factores ayuda a prevenir ataques.
+
+El código abierto también aporta seguridad porque muchas personas pueden revisar el código y encontrar fallas.
+
+Una plataforma segura garantiza privacidad, confianza y transparencia para todos los miembros de la comunidad.
+
+Por eso, la seguridad no es un tema opcional, es la base para que la tecnología realmente sirva a la comunidad.
+
+Cada usuario y desarrollador tiene la responsabilidad de proteger la información que se maneja en estas plataformas.

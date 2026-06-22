@@ -1,0 +1,7 @@
+5 prácticas de seguridad para proteger datos personales en plataformas tecnológicas comunitarias:
+
+1. Usar autenticación de dos factores 2FA: Además de la contraseña, pedir un código que llega al celular o correo.
+2. Cifrar la información: Usar HTTPS para que los datos viajen seguros y nadie los pueda interceptar.
+3. Limitar permisos de usuarios: Cada persona solo accede a la información que necesita, nada más.
+4. No exponer datos sensibles: Evitar publicar cédulas, direcciones o teléfonos en zonas públicas de la plataforma.
+5. Mantener el software actualizado: Las actualizaciones corrigen fallas de seguridad que los hackers pueden aprovechar./

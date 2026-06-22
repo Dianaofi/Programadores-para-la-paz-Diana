@@ -1,0 +1,7 @@
+5 buenas prácticas de seguridad digital:
+
+1. Usar contraseñas largas, únicas y con letras, números y símbolos
+2. Activar autenticación de dos factores 2FA en todas las cuentas posibles
+3. No compartir credenciales ni guardar contraseñas en archivos de texto públicos
+4. Mantener el sistema operativo, navegador y apps siempre actualizados
+5. Hacer copias de seguridad de la información importante en otro lugar seguro
