@@ -1,0 +1,5 @@
+
+Reflexión semana 9:
+Aprendí a crear un servidor con Express y Node.js. 
+Entendí cómo funcionan las rutas / y /estado para mostrar información.
+Fue retador usar Git y Termux desde el celular, pero logré subir todos los archivos a GitHub.

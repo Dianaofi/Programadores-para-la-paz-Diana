@@ -1,0 +1,5 @@
+Componentes del servidor:
+1. Express: Framework para crear el servidor
+2. Ruta /: Muestra mensaje de servidor activo
+3. Ruta /estado: Retorna JSON con estado del servicio
+4. Puerto 3000: Puerto donde escucha el servidor
